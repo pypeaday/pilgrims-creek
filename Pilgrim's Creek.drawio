@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.1.0">
+  <diagram name="Page-1" id="DZSZmnBPUljuRgs5WPjL">
+    <mxGraphModel dx="1181" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2AYVQFH4OWXf0Xw8aSFc-7" value="Pilgrim&#39;s Creek" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" width="640" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="2AYVQFH4OWXf0Xw8aSFc-9" value="&lt;div&gt;Website&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="2AYVQFH4OWXf0Xw8aSFc-7">
+          <mxGeometry x="20" y="50" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2AYVQFH4OWXf0Xw8aSFc-11" value="Free Resources" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="2AYVQFH4OWXf0Xw8aSFc-9">
+          <mxGeometry x="20" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2AYVQFH4OWXf0Xw8aSFc-12" value="&lt;div&gt;Quarterly&amp;nbsp;&lt;/div&gt;&lt;div&gt;&quot;Book Club&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="2AYVQFH4OWXf0Xw8aSFc-9">
+          <mxGeometry x="130" y="110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2AYVQFH4OWXf0Xw8aSFc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2AYVQFH4OWXf0Xw8aSFc-9" source="2AYVQFH4OWXf0Xw8aSFc-13" target="2AYVQFH4OWXf0Xw8aSFc-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2AYVQFH4OWXf0Xw8aSFc-13" value="Book Club Intro" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="2AYVQFH4OWXf0Xw8aSFc-9">
+          <mxGeometry x="130" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2AYVQFH4OWXf0Xw8aSFc-3" value="&amp;nbsp;Courses" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="2AYVQFH4OWXf0Xw8aSFc-9">
+          <mxGeometry x="20" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2AYVQFH4OWXf0Xw8aSFc-10" value="Podcast" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="2AYVQFH4OWXf0Xw8aSFc-7">
+          <mxGeometry x="290" y="50" width="310" height="200" as="geometry">
+            <mxRectangle x="290" y="50" width="80" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2AYVQFH4OWXf0Xw8aSFc-4" value="Bi-weekly Bible Commentary" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="2AYVQFH4OWXf0Xw8aSFc-10">
+          <mxGeometry x="20" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2AYVQFH4OWXf0Xw8aSFc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2AYVQFH4OWXf0Xw8aSFc-10" source="2AYVQFH4OWXf0Xw8aSFc-2" target="2AYVQFH4OWXf0Xw8aSFc-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2AYVQFH4OWXf0Xw8aSFc-2" value="Weekly Conversational Episode" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="2AYVQFH4OWXf0Xw8aSFc-10">
+          <mxGeometry x="150" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2AYVQFH4OWXf0Xw8aSFc-15" value="Guest Interviews" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="2AYVQFH4OWXf0Xw8aSFc-10">
+          <mxGeometry x="150" y="110" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
