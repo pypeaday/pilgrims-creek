@@ -157,7 +157,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="190" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="690" y="118" />
+              <mxPoint x="670" y="118" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -179,7 +179,7 @@
           <mxGeometry x="347.5" y="160" width="65" height="75" as="geometry" />
         </mxCell>
         <mxCell id="QcHwyFS26mMcA0Zz76L4-56" value="upload" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="QcHwyFS26mMcA0Zz76L4-61">
-          <mxGeometry x="610" y="86.25" width="100" height="42.5" as="geometry" />
+          <mxGeometry x="600" y="86.25" width="100" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="QcHwyFS26mMcA0Zz76L4-54" value="edit" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="QcHwyFS26mMcA0Zz76L4-61">
           <mxGeometry x="490" y="90" width="80" height="35" as="geometry" />
@@ -225,7 +225,7 @@
           <mxGeometry x="490" y="198.75" width="80" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="QcHwyFS26mMcA0Zz76L4-38" value="upload" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="QcHwyFS26mMcA0Zz76L4-63">
-          <mxGeometry x="620" y="196.25" width="100" height="42.5" as="geometry" />
+          <mxGeometry x="600" y="196.25" width="100" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="QcHwyFS26mMcA0Zz76L4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="QcHwyFS26mMcA0Zz76L4-63" source="QcHwyFS26mMcA0Zz76L4-29" target="QcHwyFS26mMcA0Zz76L4-38">
           <mxGeometry relative="1" as="geometry">
